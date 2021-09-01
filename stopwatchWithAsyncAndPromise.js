@@ -1,5 +1,6 @@
 
 // i am going a create stopwatch program
+// This is not totally based on ES6(Europen Computer manufecturer association)
 
 function StopWatch() {
     // private properties members
